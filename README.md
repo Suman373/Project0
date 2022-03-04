@@ -1,3 +1,6 @@
+# PYTHON TIC TAC TOE GAME
 
-Hello! A beginner level python project of mine.A simple 
-Logic board game!
+
+### The classes are meant for either random cpu player vs user or an AI vs user. 
+
+
