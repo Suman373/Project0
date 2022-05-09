@@ -1,6 +1,6 @@
-# PYTHON TIC TAC TOE GAME
+## PYTHON TIC TAC TOE GAME
 
 
-### The classes are meant for either random cpu player vs user or an AI vs user. 
+### A python practice project, from freeCodeCamp youtube channel which cleared a lot of concepts about superclasses, logic based on probabilities and interaction with b/w cpu vs human player
 
 
